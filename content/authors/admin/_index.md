@@ -1,9 +1,9 @@
 ---
 avatar_filename: 1635330147152.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests:
-  - GeometricDeepLearning
+  - geometric deep learning
+  - equivariant neural networks
 social:
   - icon: envelope
     icon_pack: fas
@@ -30,16 +30,7 @@ organizations:
   - name: LMU Munich
     url: https://www.ai.math.uni-muenchen.de/members/phd_students/maskey/index.html
 education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+  courses: []
 superuser: true
 status:
   icon: ☕️
