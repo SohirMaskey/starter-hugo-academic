@@ -51,6 +51,6 @@ title: Sohir Maskey
 first_name: Alice
 email: ""
 ---
+**Bio:** I'm Sohir Maskey and currently in my third year of PhD studies at LMU Munich, where I am advised by Gitta Kutyniok, in the Mathematical Foundations of Deep Learning chair. I started my program in 2021. My research is funded by the NSF-Simons Research Collaborations on the Mathematical and Scientific Foundations of Deep Learning, also known as MoDL."
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"}
+**Research Interests:** I work on geometric deep learning (GDL), and research the mathematics in GDL and its applications. In particular, I work on generalization capabilites of graph neural networks (GNNs). Lately, I have been working on graph neural ODEs and how this framework can be used to overcome limitations of GNNs. Other than that, I am interested in equivariant neural networks, specifally in combinations with GNNs.
