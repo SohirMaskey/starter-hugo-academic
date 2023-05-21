@@ -1,69 +1,48 @@
 ---
-title: "An example preprint / working paper"
-authors:
-- admin
-date: "2019-04-07T00:00:00Z"
-doi: ""
-
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
-
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["3"]
-
-# Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags:
-- Source Themes
-featured: false
-
-links:
-- name: Custom Link
-  url: http://example.org
+abstract: Graph neural networks (GNNs) are the primary tool for processing
+  graph-structured data. Unfortunately, the most commonly used GNNs, called
+  Message Passing Neural Networks (MPNNs) suffer from several fundamental
+  limitations. To overcome these limitations, recent works have adapted the idea
+  of positional encodings to graph data. This paper draws inspiration from the
+  recent success of Laplacian-based positional encoding and defines a novel
+  family of positional encoding schemes for graphs. We accomplish this by
+  generalizing the optimization problem that defines the Laplace embedding to
+  more general dissimilarity functions rather than the 2-norm used in the
+  original formulation. This family of positional encodings is then instantiated
+  by considering p-norms. We discuss a method for calculating these positional
+  encoding schemes, implement it in PyTorch and demonstrate how the resulting
+  positional encoding captures different properties of the graph. Furthermore,
+  we demonstrate that this novel family of positional encodings can improve the
+  expressive power of MPNNs. Lastly, we present preliminary experimental
+  results.
+slides: ""
 url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+publication_types:
+  - "1"
+authors:
+  - admin
+summary: ""
+url_dataset: "#"
+url_project: ""
+publication_short: NeurEPS@NeurIPS
+url_source: "#"
+url_video: "#"
+publication: NeurIPS 2022 Workshop on Symmetry and Geometry in Neural Representations‏‎
+featured: false
+date: 2019-04-07T00:00:00Z
+url_slides: ""
+title: Generalized Laplacian Positional Encoding for Graph Representation Learning
+tags: []
+links:
+  - name: Custom Link
+    url: http://example.org
+projects: []
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: ""
   focal_point: ""
   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-- internal-project
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+publishDate: 2017-01-01T00:00:00Z
+url_poster: "#"
+url_code: https://github.com/wowchemy/wowchemy-hugo-themes
+doi: ""
 ---
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
