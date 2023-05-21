@@ -33,7 +33,7 @@ publication_short: In ACHA
 url_source: https://github.com/wowchemy/wowchemy-hugo-themes
 url_video: https://youtube.com
 publication: In Applied and Computational Harmonic Analysis 63, 48-83
-featured: true
+featured: false
 date: 2013-07-01T00:00:00.000Z
 url_slides: ""
 title: "Transferability of Graph Neural Networks: an Extended Graphon Approach"
