@@ -24,17 +24,19 @@ publication_types:
   - "2"
 authors:
   - admin
+  - Ron Levie
+  - Gitta Kutyniok
 summary: We study GNNs and show that the output is similar for graphs sampled
   from the same distribution
-url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
+url_dataset: ""
 url_project: ""
 author_notes: []
 publication_short: In ACHA
-url_source: https://github.com/wowchemy/wowchemy-hugo-themes
-url_video: https://youtube.com
+url_source: ""
+url_video: ""
 publication: In Applied and Computational Harmonic Analysis 63, 48-83
 featured: false
-date: 2013-07-01T00:00:00.000Z
+date: 2023
 url_slides: ""
 title: "Transferability of Graph Neural Networks: an Extended Graphon Approach"
 tags: []
@@ -43,8 +45,8 @@ image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
   preview_only: false
-publishDate: 2017-01-01T00:00:00.000Z
+publishDate: 2023
 url_poster: ""
-url_code: https://github.com/wowchemy/wowchemy-hugo-themes
+url_code: ""
 doi: ""
 ---
