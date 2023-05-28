@@ -21,6 +21,11 @@ publication_types:
   - "1"
 authors:
   - admin
+  - Ali Parviz
+  - Maximilian Thiessen
+  - Hannes Stärk
+  - Ylli Sadikaj
+  - Haggai Maron
 summary: ""
 url_dataset: "#"
 url_project: ""

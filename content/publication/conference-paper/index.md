@@ -36,7 +36,7 @@ url_source: ""
 url_video: ""
 publication: In Applied and Computational Harmonic Analysis 63, 48-83
 featured: false
-date: 2023
+date: 2017-01-01T00:00:00Z
 url_slides: ""
 title: "Transferability of Graph Neural Networks: an Extended Graphon Approach"
 tags: []
@@ -45,7 +45,7 @@ image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
   preview_only: false
-publishDate: 2023
+publishDate: 2017-01-01T00:00:00Z
 url_poster: ""
 url_code: ""
 doi: ""
