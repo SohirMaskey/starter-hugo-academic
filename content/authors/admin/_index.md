@@ -34,13 +34,14 @@ education:
 superuser: true
 status:
   icon: ☕️
-last_name: Wu
+last_name: Maskey
 role: PhD student at LMU Munich advised by Gitta Kutyniok
 highlight_name: true
 title: Sohir Maskey
-first_name: Alice
-email: ""
+first_name: Sohir
+email: "maskey@math.lmu.de"
 ---
-**Bio:** I'm Sohir Maskey and currently in my third year of PhD studies at LMU Munich, where I am advised by Gitta Kutyniok, in the Mathematical Foundations of Deep Learning chair. I started my program in 2021. My research is funded by the NSF-Simons Research Collaborations on the Mathematical and Scientific Foundations of Deep Learning, also known as MoDL."
 
-**Research Interests:** I work on geometric deep learning (GDL), and research the mathematics in GDL and its applications. In particular, I work on generalization capabilites of graph neural networks (GNNs). Lately, I have been working on graph neural ODEs and how this framework can be used to overcome limitations of GNNs. Other than that, I am interested in equivariant neural networks, specifally in combinations with GNNs.
+I'm Sohir Maskey and currently in my third year of PhD studies at LMU Munich, where I am advised by Gitta Kutyniok, in the Mathematical Foundations of Deep Learning chair. I started my program in 2021. My research is funded by the NSF-Simons Research Collaborations on the Mathematical and Scientific Foundations of Deep Learning, also known as MoDL.
+
+I work on geometric deep learning (GDL), and research the mathematics in GDL and its applications. In particular, I work on generalization capabilites of graph neural networks (GNNs). Lately, I have been working on graph neural ODEs and how this framework can be used to overcome limitations of GNNs. Other than that, I am interested in equivariant neural networks, specifally in combinations with GNNs.
