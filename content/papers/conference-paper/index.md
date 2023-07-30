@@ -17,7 +17,7 @@ abstract: "We study spectral graph convolutional neural networks (GCNNs), where
   which are defined in this paper, and, 3) we obtain non-asymptotic
   approximation results, proving linear stability of GCNNs. This extends current
   state-of-the-art results which show asymptotic transferability for polynomial
-  filters under graphs that approximate bounded graphons. "
+  filters under graphs that approximate bounded graphons."
 slides: ""
 url_pdf: ""
 publication_types:
@@ -27,25 +27,21 @@ authors:
   - Ron Levie
   - Gitta Kutyniok
 summary: We study GNNs and show that the output is similar for graphs sampled
-  from the same distribution
+  from the same distribution.
 url_dataset: ""
 url_project: ""
 author_notes: []
 publication_short: In ACHA
-url_source: ""
+url_source: "https://www.sciencedirect.com/science/article/abs/pii/S1063520322000987"
 url_video: ""
 publication: In Applied and Computational Harmonic Analysis 63, 48-83
 featured: false
-date: 2017-01-01T00:00:00Z
+date: 2023-03-01T00:00:00Z
 url_slides: ""
 title: "Transferability of Graph Neural Networks: an Extended Graphon Approach"
 tags: []
 projects: []
-image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
-  focal_point: ""
-  preview_only: false
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2023-03-01T00:00:00Z
 url_poster: ""
 url_code: ""
 doi: ""
