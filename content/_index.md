@@ -14,13 +14,9 @@ sections:
   - block: collection
     content:
       title: Papers
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
       filters:
         folders:
-          - publication
+          - papers
         exclude_featured: true
     design:
       columns: '2'

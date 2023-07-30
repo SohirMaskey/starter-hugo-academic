@@ -1,9 +1,6 @@
 ---
 avatar_filename: 1635330147152.jpg
 bio: ""
-interests:
-  - geometric deep learning
-  - equivariant neural networks
 social:
   - icon: envelope
     icon_pack: fas
@@ -29,8 +26,6 @@ social:
 organizations:
   - name: LMU Munich
     url: https://www.ai.math.uni-muenchen.de/members/phd_students/maskey/index.html
-education:
-  courses: []
 superuser: true
 status:
   icon: ☕️
