@@ -11,6 +11,7 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+
   - block: collection
     id: papers
     content:
@@ -24,14 +25,14 @@ sections:
       view: citation
 
   - block: collection
-    id: papers
+    id: papers2
     content:
-      title: Papers
+      title: Papers2
       filters:
         folders:
-          - papers
+          - papers2
     design:
-      columns: '2'
+      columns: '1'
       view: compact
 
   - block: collection
