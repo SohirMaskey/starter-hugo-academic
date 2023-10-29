@@ -16,7 +16,7 @@ abstract: Graph neural networks (GNNs) are the primary tool for processing
   expressive power of MPNNs. Lastly, we present preliminary experimental
   results.
 slides: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://arxiv.org/pdf/2210.15956.pdf
 publication_types:
   - "1"
 authors:
@@ -26,6 +26,9 @@ authors:
   - Hannes Stärk
   - Ylli Sadikaj
   - Haggai Maron
+author_notes:
+  - Equal contribution
+  - Equal contribution
 summary: ""
 url_dataset: "#"
 url_project: ""
@@ -34,20 +37,16 @@ url_source: "#"
 url_video: "#"
 publication: NeurIPS 2022 Workshop on Symmetry and Geometry in Neural Representations
 featured: false
-date: 2019-04-07T00:00:00Z
+date: 2022-04-07T00:00:00Z
 url_slides: ""
 title: Generalized Laplacian Positional Encoding for Graph Representation Learning
 tags: []
-links:
-  - name: Custom Link
-    url: http://example.org
 projects: []
 image:
   caption: ""
   focal_point: ""
   preview_only: false
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2022-01-01T00:00:00Z
 url_poster: "#"
-url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 doi: ""
 ---

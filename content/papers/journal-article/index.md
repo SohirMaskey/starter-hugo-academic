@@ -14,7 +14,7 @@ abstract: Message passing neural networks (MPNN) have seen a steep rise in
   convergence result, that shows that any MPNN, applied on a graph, approximates
   the MPNN applied on the geometric model that the graph discretizes.
 slides: example
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://arxiv.org/pdf/2202.00645.pdf
 publication_types:
   - "1"
 authors:

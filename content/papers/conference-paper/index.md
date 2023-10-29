@@ -19,7 +19,7 @@ abstract: "We study spectral graph convolutional neural networks (GCNNs), where
   state-of-the-art results which show asymptotic transferability for polynomial
   filters under graphs that approximate bounded graphons."
 slides: ""
-url_pdf: ""
+url_pdf: "https://arxiv.org/pdf/2109.10096.pdf"
 publication_types:
   - "2"
 authors:
