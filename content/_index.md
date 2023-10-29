@@ -22,7 +22,7 @@ sections:
         exclude_featured: true
     design:
       columns: '2'
-      view: citation
+      view: compact
 
   - block: collection
     id: papers2
@@ -32,7 +32,7 @@ sections:
         folders:
           - papers2
     design:
-      columns: '1'
+      columns: '2'
       view: compact
 
   - block: collection
