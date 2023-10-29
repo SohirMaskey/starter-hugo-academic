@@ -5,7 +5,7 @@
 
 main:
   - name: about
-    url: '#authors'
+    url: '#about'
     weight: 10
   - name: papers
     url: '#papers'
@@ -14,7 +14,7 @@ main:
     url: '#talks'
     weight: 30
   - name: news
-    url: '#posts'
+    url: '#news'
     weight: 40
 
 
