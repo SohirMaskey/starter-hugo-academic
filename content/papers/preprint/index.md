@@ -49,4 +49,7 @@ image:
 publishDate: 2022-01-01T00:00:00Z
 url_poster: "#"
 doi: ""
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  focal_point: Right
 ---
