@@ -7,12 +7,15 @@ main:
   - name: about
     url: '#authors'
     weight: 10
-  - name: news
-    url: '#posts'
-    weight: 20
   - name: papers
     url: '#papers'
+    weight: 20
+  - name: talks
+    url: '#talks'
     weight: 30
+  - name: news
+    url: '#posts'
+    weight: 40
 
 
 # Link to a PDF of your resume/CV from the menu.

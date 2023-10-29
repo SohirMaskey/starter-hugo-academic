@@ -12,6 +12,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: collection
+    id: papers
     content:
       title: Papers
       filters:
@@ -31,4 +32,15 @@ sections:
     design:
       columns: '2'
       view: compact
+  - block: collection
+    id: news
+    content:
+      title: Recent
+      filters:
+        folders:
+          - news
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: citation
 ---
