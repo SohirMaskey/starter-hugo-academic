@@ -22,6 +22,18 @@ sections:
     design:
       columns: '2'
       view: citation
+
+  - block: collection
+    id: papers
+    content:
+      title: Papers
+      filters:
+        folders:
+          - papers
+    design:
+      columns: '2'
+      view: compact
+
   - block: collection
     id: talks
     content:
