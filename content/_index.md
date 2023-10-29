@@ -33,12 +33,12 @@ sections:
       columns: '2'
       view: compact
   - block: collection
-    id: news
+    id: other
     content:
-      title: Recent
+      title: Other
       filters:
         folders:
-          - news
+          - other
         exclude_featured: true
     design:
       columns: '2'
