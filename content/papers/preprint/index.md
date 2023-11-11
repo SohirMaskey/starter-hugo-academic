@@ -1,20 +1,5 @@
 ---
-abstract: Graph neural networks (GNNs) are the primary tool for processing
-  graph-structured data. Unfortunately, the most commonly used GNNs, called
-  Message Passing Neural Networks (MPNNs) suffer from several fundamental
-  limitations. To overcome these limitations, recent works have adapted the idea
-  of positional encodings to graph data. This paper draws inspiration from the
-  recent success of Laplacian-based positional encoding and defines a novel
-  family of positional encoding schemes for graphs. We accomplish this by
-  generalizing the optimization problem that defines the Laplace embedding to
-  more general dissimilarity functions rather than the 2-norm used in the
-  original formulation. This family of positional encodings is then instantiated
-  by considering p-norms. We discuss a method for calculating these positional
-  encoding schemes, implement it in PyTorch and demonstrate how the resulting
-  positional encoding captures different properties of the graph. Furthermore,
-  we demonstrate that this novel family of positional encodings can improve the
-  expressive power of MPNNs. Lastly, we present preliminary experimental
-  results.
+abstract: NeurIPS 2022, Workshop on Symmetry and Geometry in Neural Representations.
 slides: ""
 url_pdf: https://arxiv.org/pdf/2210.15956.pdf
 publication_types:
@@ -43,9 +28,8 @@ title: Generalized Laplacian Positional Encoding for Graph Representation Learni
 tags: []
 projects: []
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
-  preview_only: false
+  preview_only: true
 publishDate: 2022-01-01T00:00:00Z
 url_poster: "#"
 doi: ""

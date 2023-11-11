@@ -24,16 +24,16 @@ sections:
       columns: '2'
       view: compact
 
-  - block: collection
-    id: papers2
-    content:
-      title: Papers2
-      filters:
-        folders:
-          - papers2
-    design:
-      columns: '2'
-      view: compact
+  # - block: collection
+  #   id: papers2
+  #   content:
+  #     title: Papers2
+  #     filters:
+  #       folders:
+  #         - papers2
+  #   design:
+  #     columns: '2'
+  #     view: compact
 
   - block: collection
     id: talks
