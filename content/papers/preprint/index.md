@@ -15,11 +15,9 @@ author_notes:
   - Equal contribution
   - Equal contribution
 summary: ""
-url_dataset: "#"
+url_dataset: ""
 url_project: ""
 publication_short: NeurEPS@NeurIPS
-url_source: "#"
-url_video: "#"
 publication: NeurIPS 2022 Workshop on Symmetry and Geometry in Neural Representations
 featured: false
 date: 2022-04-07T00:00:00Z

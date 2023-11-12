@@ -1,7 +1,7 @@
 ---
-abstract: NeurIPS 2022.
+abstract: Preprint
 slides: example
-url_pdf: https://arxiv.org/pdf/2202.00645.pdf
+url_pdf: https://arxiv.org/pdf/2202.00645v3.pdf
 publication_types:
   - "1"
 authors:
@@ -15,15 +15,14 @@ url_project: ""
 author_notes:
   - Equal contribution
   - Equal contribution
-publication_short: NeurIPS 2022
+publication_short: Preprint
 url_source: ""
 url_video: ""
-publication: Advances in Neural Information Processing Systems 2022
+publication: Preprint
 featured: false
 date: 2022-10-01T00:00:00Z
 url_slides: ""
-title: "Generalization Analysis of Message Passing Neural Networks on Large
-  Random Graphs"
+title: "Convergence and Transferability of Message Passing Graph Neural Networks."
 tags:
   - Source Themes
 projects: []
@@ -31,7 +30,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-publishDate: 2022-10-01T00:00:00Z
+publishDate: 2022-01-01T00:00:00Z
 url_poster: ""
 url_code: ""
 doi: ""
