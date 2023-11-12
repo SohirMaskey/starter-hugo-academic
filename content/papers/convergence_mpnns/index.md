@@ -1,5 +1,5 @@
 ---
-abstract: Preprint
+abstract:  
 slides: example
 url_pdf: https://arxiv.org/pdf/2202.00645v3.pdf
 publication_types:
@@ -9,20 +9,20 @@ authors:
   - Ron Levie
   - Yunseok Lee
   - Gitta Kutyniok
-summary: Preprint.
+summary:  
 url_dataset: ""
 url_project: ""
 author_notes:
   - Equal contribution
   - Equal contribution
-publication_short: Preprint
+publication_short:  
 url_source: ""
 url_video: ""
-publication: Preprint
+publication:  
 featured: false
 date: 2022-01-01T00:00:00Z
 url_slides: ""
-title: "Convergence and Transferability of Message Passing Graph Neural Networks."
+title: "Convergence and Transferability of Message Passing Graph Neural Networks"
 tags:
   - Source Themes
 projects: []
