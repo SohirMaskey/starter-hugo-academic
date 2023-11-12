@@ -26,9 +26,9 @@ title: Generalized Laplacian Positional Encoding for Graph Representation Learni
 tags: []
 projects: []
 image:
-  focal_point: Right
+  focal_point: Left
   preview_only: true
 publishDate: 2022-10-01T00:00:00Z
-url_poster: "#"
+url_poster: ""
 doi: ""
 ---

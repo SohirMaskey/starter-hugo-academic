@@ -9,7 +9,7 @@ authors:
   - Ron Levie
   - Yunseok Lee
   - Gitta Kutyniok
-summary: "We leverage the infinite-node limit of graph message passing neural networks to derive a uniform generalization bound that decreases with respect to the graphs' sizes."
+summary: Preprint.
 url_dataset: ""
 url_project: ""
 author_notes:
@@ -20,7 +20,7 @@ url_source: ""
 url_video: ""
 publication: Preprint
 featured: false
-date: 2022-10-01T00:00:00Z
+date: 2022-01-01T00:00:00Z
 url_slides: ""
 title: "Convergence and Transferability of Message Passing Graph Neural Networks."
 tags:
@@ -28,8 +28,8 @@ tags:
 projects: []
 image:
   caption: ""
-  focal_point: ""
-  preview_only: false
+  focal_point: Left
+  preview_only: true
 publishDate: 2022-01-01T00:00:00Z
 url_poster: ""
 url_code: ""

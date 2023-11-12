@@ -9,7 +9,7 @@ authors:
   - Raffaele Paolino
   - Aras Bacho
   - Gitta Kutyniok
-summary: We introduce the fractional graph Laplacian neural ODE, which alleviates oversmoothing and is well-suited for both directed and undirected graphs, as well as various levels of homophily."
+summary: NeurIPS 2023.
 url_dataset: ""
 url_project: ""
 author_notes:
@@ -28,8 +28,8 @@ tags:
 projects: []
 image:
   caption: ""
-  focal_point: ""
-  preview_only: false
+  focal_point: Left
+  preview_only: true
 publishDate: 2023-10-01T00:00:00Z
 url_poster: ""
 url_code: ""

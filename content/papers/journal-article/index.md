@@ -9,7 +9,7 @@ authors:
   - Ron Levie
   - Yunseok Lee
   - Gitta Kutyniok
-summary: "We leverage the infinite-node limit of graph message passing neural networks to derive a uniform generalization bound that decreases with respect to the graphs' sizes."
+summary: NeurIPS 2022.
 url_dataset: ""
 url_project: ""
 author_notes:
@@ -29,8 +29,8 @@ tags:
 projects: []
 image:
   caption: ""
-  focal_point: ""
-  preview_only: false
+  focal_point: Left
+  preview_only: true
 publishDate: 2022-10-01T00:00:00Z
 url_poster: ""
 url_code: ""

@@ -8,8 +8,7 @@ authors:
   - admin
   - Ron Levie
   - Gitta Kutyniok
-summary: We study GNNs and show that the output is similar for graphs sampled
-  from the same distribution.
+summary: In Applied and Computational Harmonic Analysis 63, 48-83.
 url_dataset: ""
 url_project: ""
 author_notes: []
@@ -27,4 +26,8 @@ publishDate: 2023-03-01T00:00:00Z
 url_poster: ""
 url_code: ""
 doi: ""
+image:
+  caption: ""
+  focal_point: Left
+  preview_only: true
 ---
